@@ -161,16 +161,6 @@ python python/ecg_classifier.py
 
 ---
 
-## Team Members
-
-- **Lalit Kumar** (1NH24EC071)
-- **Vishal Sriram R** (1NH24EC122)
-
-Department of Electronics and Communication Engineering  
-New Horizon College of Engineering, Bengaluru
-
----
-
 ## License
 
 This project is licensed under the MIT License.
