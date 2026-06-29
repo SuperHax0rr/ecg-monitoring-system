@@ -73,27 +73,6 @@ ECG Electrodes
 
 ---
 
-## Repository Structure
-
-```text
-ai-ecg-monitoring-system/
-├── README.md
-├── report/
-│   └── miniprojectd2.pdf
-├── images/
-│   ├── setup.jpg
-│   ├── electrode-placement.jpg
-│   ├── circuit-diagram.jpg
-│   └── waveform.jpg
-├── arduino/
-│   └── ecg_monitor.ino
-├── python/
-│   └── ecg_classifier.py
-└── LICENSE
-```
-
----
-
 ## Screenshots
 
 ### Project Setup
