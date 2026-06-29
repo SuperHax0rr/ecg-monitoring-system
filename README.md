@@ -76,21 +76,16 @@ ECG Electrodes
 ## Screenshots
 
 ### Project Setup
-
 ![Project Setup](images/setup.jpg)
 
 ### Electrode Placement
-
 ![Electrode Placement](images/electrode-placement.jpg)
 
-### Circuit Diagram
-
-![Circuit Diagram](images/circuit-diagram.jpg)
-
 ### ECG Waveform
+![ECG Waveform](images/waveform.jpg)
 
-![Waveform](images/waveform.jpg)
-
+### Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.jpg)
 ---
 
 ## Installation
